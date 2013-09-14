@@ -1,0 +1,13 @@
+{
+  "name": "Torrent Downloader",
+  "version": "1.0",
+  "description": "This adds torrents to your torrent-download page you are in. Supports Torrents.com",
+  "browser_action": {
+    "default_icon": "icon.ico",
+	"default_title": "Download Torrent",
+	"popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
