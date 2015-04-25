@@ -1,0 +1,2 @@
+This is a chrome extension combine with a python server.
+The extension tells the server which url to download from, and the server parses the url and download from it. you dont have to look for the download link yourself.
